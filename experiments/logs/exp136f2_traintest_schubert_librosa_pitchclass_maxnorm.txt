@@ -1,0 +1,111 @@
+2021-07-23 14:08:45 | INFO : Logging experiment exp136f2_traintest_schubert_librosa_pitchclass_maxnorm
+2021-07-23 14:08:45 | INFO : Experiment config: do training = False
+2021-07-23 14:08:45 | INFO : Experiment config: do validation = False
+2021-07-23 14:08:45 | INFO : Experiment config: do testing = True
+2021-07-23 14:08:45 | INFO : Save filewise results = True, in folder C:\Users\wes\Documents\work_paris\deep_pitch_estimation\experiments\results_filewise\exp136f2_traintest_schubert_librosa_pitchclass_maxnorm.csv
+2021-07-23 14:08:45 | INFO : 
+ 
+ ###################### START TESTING ###################### 
+
+2021-07-23 14:08:52 | INFO : file Schubert_D911-01_HU33.npy tested. Cosine sim: 0.7159574469125098
+2021-07-23 14:08:54 | INFO : file Schubert_D911-01_SC06.npy tested. Cosine sim: 0.7528519421735868
+2021-07-23 14:08:55 | INFO : file Schubert_D911-02_HU33.npy tested. Cosine sim: 0.6630243374566961
+2021-07-23 14:08:56 | INFO : file Schubert_D911-02_SC06.npy tested. Cosine sim: 0.6123697941244882
+2021-07-23 14:08:57 | INFO : file Schubert_D911-03_HU33.npy tested. Cosine sim: 0.7061847139106543
+2021-07-23 14:08:58 | INFO : file Schubert_D911-03_SC06.npy tested. Cosine sim: 0.6985788184552667
+2021-07-23 14:08:59 | INFO : file Schubert_D911-04_HU33.npy tested. Cosine sim: 0.6569543542663449
+2021-07-23 14:09:00 | INFO : file Schubert_D911-04_SC06.npy tested. Cosine sim: 0.6383061626590144
+2021-07-23 14:09:02 | INFO : file Schubert_D911-05_HU33.npy tested. Cosine sim: 0.6557030843225732
+2021-07-23 14:09:03 | INFO : file Schubert_D911-05_SC06.npy tested. Cosine sim: 0.7065007553566375
+2021-07-23 14:09:05 | INFO : file Schubert_D911-06_HU33.npy tested. Cosine sim: 0.6930271697441511
+2021-07-23 14:09:07 | INFO : file Schubert_D911-06_SC06.npy tested. Cosine sim: 0.7425298924711612
+2021-07-23 14:09:08 | INFO : file Schubert_D911-07_HU33.npy tested. Cosine sim: 0.6760408882312775
+2021-07-23 14:09:09 | INFO : file Schubert_D911-07_SC06.npy tested. Cosine sim: 0.6911099860729633
+2021-07-23 14:09:10 | INFO : file Schubert_D911-08_HU33.npy tested. Cosine sim: 0.6425194224179095
+2021-07-23 14:09:11 | INFO : file Schubert_D911-08_SC06.npy tested. Cosine sim: 0.6520107901545324
+2021-07-23 14:09:12 | INFO : file Schubert_D911-09_HU33.npy tested. Cosine sim: 0.6785645539553905
+2021-07-23 14:09:13 | INFO : file Schubert_D911-09_SC06.npy tested. Cosine sim: 0.7313842354150546
+2021-07-23 14:09:14 | INFO : file Schubert_D911-10_HU33.npy tested. Cosine sim: 0.7343786595706429
+2021-07-23 14:09:16 | INFO : file Schubert_D911-10_SC06.npy tested. Cosine sim: 0.7433467769149489
+2021-07-23 14:09:17 | INFO : file Schubert_D911-11_HU33.npy tested. Cosine sim: 0.6413084487961801
+2021-07-23 14:09:19 | INFO : file Schubert_D911-11_SC06.npy tested. Cosine sim: 0.7098684242015927
+2021-07-23 14:09:20 | INFO : file Schubert_D911-12_HU33.npy tested. Cosine sim: 0.6896868656425653
+2021-07-23 14:09:21 | INFO : file Schubert_D911-12_SC06.npy tested. Cosine sim: 0.7334558975453384
+2021-07-23 14:09:21 | INFO : file Schubert_D911-13_HU33.npy tested. Cosine sim: 0.7421246854215001
+2021-07-23 14:09:22 | INFO : file Schubert_D911-13_SC06.npy tested. Cosine sim: 0.740524411654088
+2021-07-23 14:09:23 | INFO : file Schubert_D911-14_HU33.npy tested. Cosine sim: 0.6905325206789061
+2021-07-23 14:09:24 | INFO : file Schubert_D911-14_SC06.npy tested. Cosine sim: 0.7300960383609529
+2021-07-23 14:09:25 | INFO : file Schubert_D911-15_HU33.npy tested. Cosine sim: 0.6858108726866391
+2021-07-23 14:09:25 | INFO : file Schubert_D911-15_SC06.npy tested. Cosine sim: 0.6823690898943374
+2021-07-23 14:09:26 | INFO : file Schubert_D911-16_HU33.npy tested. Cosine sim: 0.6659471041742101
+2021-07-23 14:09:27 | INFO : file Schubert_D911-16_SC06.npy tested. Cosine sim: 0.6742008540238311
+2021-07-23 14:09:28 | INFO : file Schubert_D911-17_HU33.npy tested. Cosine sim: 0.6825200754937897
+2021-07-23 14:09:29 | INFO : file Schubert_D911-17_SC06.npy tested. Cosine sim: 0.6851288690253176
+2021-07-23 14:09:30 | INFO : file Schubert_D911-18_HU33.npy tested. Cosine sim: 0.7242240569041433
+2021-07-23 14:09:30 | INFO : file Schubert_D911-18_SC06.npy tested. Cosine sim: 0.6921060644395185
+2021-07-23 14:09:30 | INFO : file Schubert_D911-19_HU33.npy tested. Cosine sim: 0.6789653000024062
+2021-07-23 14:09:31 | INFO : file Schubert_D911-19_SC06.npy tested. Cosine sim: 0.6864757023518198
+2021-07-23 14:09:32 | INFO : file Schubert_D911-20_HU33.npy tested. Cosine sim: 0.7587393343752815
+2021-07-23 14:09:34 | INFO : file Schubert_D911-20_SC06.npy tested. Cosine sim: 0.7438514529908228
+2021-07-23 14:09:35 | INFO : file Schubert_D911-21_HU33.npy tested. Cosine sim: 0.7376714457386582
+2021-07-23 14:09:37 | INFO : file Schubert_D911-21_SC06.npy tested. Cosine sim: 0.7267595264275917
+2021-07-23 14:09:38 | INFO : file Schubert_D911-22_HU33.npy tested. Cosine sim: 0.704060139308305
+2021-07-23 14:09:39 | INFO : file Schubert_D911-22_SC06.npy tested. Cosine sim: 0.7389486120869099
+2021-07-23 14:09:40 | INFO : file Schubert_D911-23_HU33.npy tested. Cosine sim: 0.7160219251740692
+2021-07-23 14:09:42 | INFO : file Schubert_D911-23_SC06.npy tested. Cosine sim: 0.7434031341712215
+2021-07-23 14:09:43 | INFO : file Schubert_D911-24_HU33.npy tested. Cosine sim: 0.6945900084081927
+2021-07-23 14:09:45 | INFO : file Schubert_D911-24_SC06.npy tested. Cosine sim: 0.7336261272176775
+2021-07-23 14:09:45 | INFO : ### Testing done. Results: ######################################## 
+
+2021-07-23 14:09:45 | INFO : Mean precision:   0.5123562377485922
+2021-07-23 14:09:45 | INFO : Mean recall:   0.6807323285856762
+2021-07-23 14:09:45 | INFO : Mean f_measure:   0.579404572991166
+2021-07-23 14:09:45 | INFO : Mean cosine_sim:   0.7005075160787847
+2021-07-23 14:09:45 | INFO : Mean binary_crossentropy:   1.6774814410508487
+2021-07-23 14:09:45 | INFO : Mean euclidean_distance:   1.319380876781781
+2021-07-23 14:09:45 | INFO : Mean binary_accuracy:   0.7933135785375834
+2021-07-23 14:09:45 | INFO : Mean soft_accuracy:   0.6849962679697378
+2021-07-23 14:09:45 | INFO : Mean accum_energy:   0.6791548968439703
+2021-07-23 14:09:45 | INFO : Mean roc_auc_measure:   0.8369542123844943
+2021-07-23 14:09:45 | INFO : Mean average_precision_score:   0.5941822641563154
+2021-07-23 14:09:45 | INFO : Mean Precision:   0.5123562377485922
+2021-07-23 14:09:45 | INFO : Mean Recall:   0.6807323285856762
+2021-07-23 14:09:45 | INFO : Mean Accuracy:   0.4098070741161648
+2021-07-23 14:09:45 | INFO : Mean Substitution Error:   0.15644378191192787
+2021-07-23 14:09:45 | INFO : Mean Miss Error:   0.16282388950239599
+2021-07-23 14:09:45 | INFO : Mean False Alarm Error:   0.5305767538196996
+2021-07-23 14:09:45 | INFO : Mean Total Error:   0.8498444252340235
+2021-07-23 14:09:45 | INFO : Mean Chroma Precision:   0.5123562377485922
+2021-07-23 14:09:45 | INFO : Mean Chroma Recall:   0.6807323285856762
+2021-07-23 14:09:45 | INFO : Mean Chroma Accuracy:   0.4098070741161648
+2021-07-23 14:09:45 | INFO : Mean Chroma Substitution Error:   0.15644378191192787
+2021-07-23 14:09:45 | INFO : Mean Chroma Miss Error:   0.16282388950239599
+2021-07-23 14:09:45 | INFO : Mean Chroma False Alarm Error:   0.5305767538196996
+2021-07-23 14:09:45 | INFO : Mean Chroma Total Error:   0.8498444252340235
+2021-07-23 14:09:45 | INFO : 
+
+2021-07-23 14:09:45 | INFO : Framewise precision:   0.529995538108995
+2021-07-23 14:09:45 | INFO : Framewise recall:   0.6728776606061895
+2021-07-23 14:09:45 | INFO : Framewise f_measure:   0.5882160514674545
+2021-07-23 14:09:45 | INFO : Framewise cosine_sim:   0.70388128273834
+2021-07-23 14:09:45 | INFO : Framewise binary_crossentropy:   1.648318584855323
+2021-07-23 14:09:45 | INFO : Framewise euclidean_distance:   1.3137937320307858
+2021-07-23 14:09:45 | INFO : Framewise binary_accuracy:   0.7963159323777814
+2021-07-23 14:09:45 | INFO : Framewise soft_accuracy:   0.6874800325421572
+2021-07-23 14:09:45 | INFO : Framewise accum_energy:   0.6718133502796515
+2021-07-23 14:09:45 | INFO : Framewise roc_auc_measure:   0.8368871949577268
+2021-07-23 14:09:45 | INFO : Framewise average_precision_score:   0.6020225009902539
+2021-07-23 14:09:45 | INFO : Framewise Precision:   0.529995538108995
+2021-07-23 14:09:45 | INFO : Framewise Recall:   0.6728776606061895
+2021-07-23 14:09:45 | INFO : Framewise Accuracy:   0.41863379602892853
+2021-07-23 14:09:45 | INFO : Framewise Substitution Error:   0.157307290703422
+2021-07-23 14:09:45 | INFO : Framewise Miss Error:   0.16981504869038896
+2021-07-23 14:09:45 | INFO : Framewise False Alarm Error:   0.47354786386914044
+2021-07-23 14:09:45 | INFO : Framewise Total Error:   0.8006702032629516
+2021-07-23 14:09:45 | INFO : Framewise Chroma Precision:   0.529995538108995
+2021-07-23 14:09:45 | INFO : Framewise Chroma Recall:   0.6728776606061895
+2021-07-23 14:09:45 | INFO : Framewise Chroma Accuracy:   0.41863379602892853
+2021-07-23 14:09:45 | INFO : Framewise Chroma Substitution Error:   0.157307290703422
+2021-07-23 14:09:45 | INFO : Framewise Chroma Miss Error:   0.16981504869038896
+2021-07-23 14:09:45 | INFO : Framewise Chroma False Alarm Error:   0.47354786386914044
+2021-07-23 14:09:45 | INFO : Framewise Chroma Total Error:   0.8006702032629516
