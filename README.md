@@ -1,4 +1,4 @@
-# multipitch_mctc
+# pitchclass_mctc
 
 This is a pytorch code repository accompanying the following paper:  
 
