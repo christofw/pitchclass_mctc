@@ -1,4 +1,4 @@
-name: multipitch_mctc
+name: pitchclass_mctc
 
 channels:
   - defaults
