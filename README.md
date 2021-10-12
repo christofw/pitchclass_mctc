@@ -27,7 +27,7 @@ The experiment files' names relate to the paper's results in the following way:
 
 ### Experiment 1 (Table 3) - Loss and model variants
 
-* _exp118b_traintest_schubert_sctcthreecomp_pitch.py_ (All-Zero baseline)
+* _exp136b_traintest_schubert_sctcthreecomp_pitchclass.py_ (All-Zero baseline)
 * _exp136f2_traintest_schubert_librosa_pitchclass_maxnorm.py_ (CQT-Chroma baseline)
 * _exp136b_traintest_schubert_sctcthreecomp_pitchclass.py_ (Separable CTC (SCTC) loss)
 * _exp136d_traintest_schubert_mctcnethreecomp_pitchclass.py_ (Non-Epsilon MCTC (MCTC:NE) loss)
@@ -42,6 +42,12 @@ The experiment files' names relate to the paper's results in the following way:
 * _exp137b_trainmix_testmusicnet_aligned_pitchclass_basiccnn_segmmodel.py_ (Test MusicNet, train others aligned)
 * _exp138a_trainmix_testmaestro_mctcwe_pitchclass_basiccnn.py_ (Test MAESTRO, train others MCTC)
 * _exp138b_trainmix_testmaestro_aligned_pitchclass_basiccnn_segmmodel.py_ (Test MAESTRO, train others aligned)
+  
+Run scripts using e.g. the following commands:  
+__conda activate pitchclass_mctc__  
+__export CUDA_VISIBLE_DEVICES=1__  
+__python experiments/exp136b_traintest_schubert_sctcthreecomp_pitchclass.py__  
+
 
 ### Application: Visualization (Figure 5)
 
