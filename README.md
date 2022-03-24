@@ -43,6 +43,10 @@ The experiment files' names relate to the paper's results in the following way:
 * _exp138a_trainmix_testmaestro_mctcwe_pitchclass_basiccnn.py_ (Test MAESTRO, train others MCTC)
 * _exp138b_trainmix_testmaestro_aligned_pitchclass_basiccnn_segmmodel.py_ (Test MAESTRO, train others aligned)
   
+### AddOn: Extra experiment with a deep residual CNN
+
+* _exp136hR_traintest_schubert_aligned_pitchclass_resnet_ (Train/Test Schubert, Strongly-aligned training (BCE loss))
+  
 Run scripts using e.g. the following commands:  
 __conda activate pitchclass_mctc__  
 __export CUDA_VISIBLE_DEVICES=1__  
